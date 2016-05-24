@@ -1,24 +1,28 @@
 body {
-  background-color: #80aaff;
+  background-color: #c68c53;
 }
 
 div {
     border: 3px solid black;
     margin-left: 15%;
     margin-right: 15%;
-    background-color: #fc9;
+    background-color: #630;
 }
 
 h1 {
   text-align:center;
   font-size: 52px;
   font-family: cursive;
+  color: white;
+  font-stretch: extra-expanded;
 }
 
 h3 {
   font-size: 30px;
   font-family: fantasy;
   text-align: center;
+  color: white;
+  font-stretch: extra-expanded;
 }
 
 h2 {
@@ -37,5 +41,12 @@ img{
 p {
   font-size: 22px;
   font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  font-size: 22px;
+  font-family: sans-serif;
+  list-style: none;
   text-align: center;
 }
