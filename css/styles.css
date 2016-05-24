@@ -39,3 +39,10 @@ p {
   font-family: sans-serif;
   text-align: center;
 }
+
+ul {
+  font-size: 22px;
+  font-family: sans-serif;
+  list-style: none;
+  text-align: center;
+}
